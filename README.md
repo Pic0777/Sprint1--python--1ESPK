@@ -1,6 +1,8 @@
 <h1> SIMULADOR DE APOSTAS - FORMULA E </h1>
 
 ## Colaboradores
+- Iago Kutelak - RM: 554698
+- João Vicente - RM: 556561
 - Lucca Saraiva Borges - RM: 554608
 - Pietro Vitor Pezzente - RM: 557283
 
